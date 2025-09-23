@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhal Khazene</h1>
 <h3 align="center">Software Developer | Flutter</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=Nidhal-Khazene&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently learning **Software and AI Engineering**
 
