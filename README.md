@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nidhal Khazene</h1>
-<h3 align="center">Software Developer | Flutter</h3>
+<h3 align="center">Mobile Software Developer | Flutter</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nidhal-Khazene&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Mobile Software Engineering**
+- 🌱 I’m currently learning **Mobile Software Engineering and Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nidhal-Khazene](https://github.com/Nidhal-Khazene)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **nidhal.khazene@gmail.com**
 
