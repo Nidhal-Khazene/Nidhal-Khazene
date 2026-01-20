@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nidhal-Khazene&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Mobile Software Engineering and Computer Science**
+- 🌱 I’m currently learning **Mobile Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nidhal-Khazene](https://github.com/Nidhal-Khazene)
 
