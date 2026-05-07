@@ -32,10 +32,3 @@ I am a Junior Mobile Flutter Developer dedicated to streamlining sales and marke
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhal-khazene)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nidhal-khazene.netlify.app/)
 
----
-
-## GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhal-Khazene&layout=compact&theme=vision-friendly-dark)
-
-![Nidhal Khazene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhal-Khazene&show_icons=true&theme=vision-friendly-dark)
