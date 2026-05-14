@@ -4,7 +4,7 @@
 
 ## About Me
 
-Flutter Developer focused on building scalable mobile applications using Flutter, Firebase, and clean architecture principles.
+Junior mobile Flutter developers help you streamline your sales and marketing efforts by building high-quality software that elevates your business and delivers a message that resonates with your target audience.
 
 ---
 
