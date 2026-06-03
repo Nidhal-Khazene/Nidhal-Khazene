@@ -21,7 +21,5 @@ Junior mobile Flutter developers help you streamline your sales and marketing ef
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhal-khazene)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nidhal-khazene.netlify.app/)
 
