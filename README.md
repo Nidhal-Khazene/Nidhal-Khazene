@@ -14,7 +14,7 @@
 
 <br/>
 
-**Flutter Engineer** building scalable, AI-powered cross-platform apps.
+**Mobile Developer** building scalable, AI-powered cross-platform apps.
 
 Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
 
