@@ -3,11 +3,10 @@
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:FF6B35,100:1a1a2e&height=200&section=header&text=Khazene%20Nidhal&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:FF6B35,100:1a1a2e&height=200&section=header&text=Nidhal%20Khazene&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-junaidjamel.com-FF6B35?style=for-the-badge&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nidhalkhazene.com-FF6B35?style=for-the-badge&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhal.khazene@gmail.com)
 
 
