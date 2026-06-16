@@ -39,4 +39,4 @@ Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
 ---
 
 ## Connect
-[![Leetcode](https://img.shields.io/badge/Leetcode-0A66C2?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nidhal-Khazene/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-551E9F?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nidhal-Khazene/)
