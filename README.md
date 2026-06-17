@@ -8,6 +8,7 @@
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nidhalkhazene.com-FF6B35?style=for-the-badge&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhal.khazene@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=213669467251&text&type=phone_number&app_absent=0)
 
 
 </div>
