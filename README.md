@@ -23,7 +23,7 @@ Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
 
 ## Stack
 
-**Mobile** — Flutter · Dart · BLoC · GetX 
+**Mobile** — Flutter · Dart · BLoC · Cubit · GetX 
 
 **Cloud & Backend** — Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · AppSync · REST
 
