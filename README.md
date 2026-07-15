@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:FF6B35,100:1a1a2e&height=200&section=header&text=Nidhal%20Khazene&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=200&section=header&text=Nidhal%20Khazene&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nidhalkhazene.com-FF6B35?style=for-the-badge&logoColor=white)]()
