@@ -6,7 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=200&section=header&text=Nidhal%20Khazene&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
   
-[![Links List](https://img.shields.io/badge/🌐_Links_nidhal-khazene.netlify.app-13B9FD?style=for-the-badge&logoColor=white)](nidhal-khazene.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhal.khazene@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=213669467251&text&type=phone_number&app_absent=0)
 
