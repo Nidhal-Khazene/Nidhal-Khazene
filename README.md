@@ -28,7 +28,7 @@ Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
 
 **Architecture** — Clean Architecture · MVVM · MVC
 
-**DevOps & Tools** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio
+**DevOps & Tools & AI** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio · Antigravity · GitHub Copilot
 
 **Storage** —  Hive · Shared Preferences
 
