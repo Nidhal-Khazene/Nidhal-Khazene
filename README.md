@@ -22,11 +22,11 @@ Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
 
 ## Stack
 
-**Mobile** — Flutter · Dart · BLoC · Cubit · GetX 
+**Mobile** — Flutter · Dart · BLoC · Cubit  
 
 **Cloud & Backend** — Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · AppSync · REST
 
-**Architecture** — Clean Architecture · MVVM · MVC
+**Architecture** — Clean Architecture · MVVM 
 
 **DevOps & Tools & AI** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio · Antigravity · GitHub Copilot
 
@@ -34,7 +34,7 @@ Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
 
 
 
-**Other** — Push Notifications · Unit Testing · Threading (Isolates) · App Publishing
+**Other** — Push Notifications · Unit Testing · Google Maps · App Publishing · Payments
 
 ---
 
