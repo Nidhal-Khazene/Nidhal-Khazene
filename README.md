@@ -16,7 +16,7 @@
 
 **Mobile Developer** building scalable, AI-powered cross-platform apps.
 
-Currently at **Hoskadev** · 📍 Algeria · UTC+01:00
+Currently  · 📍 Algeria · UTC+01:00
 
 ---
 
