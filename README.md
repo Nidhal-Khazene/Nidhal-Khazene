@@ -32,11 +32,5 @@ Currently  · 📍 Algeria · UTC+01:00
 
 **Storage** —  Hive · Shared Preferences
 
-
-
 **Other** — Push Notifications · Unit Testing · Google Maps · App Publishing · Payments
 
----
-
-## Connect
-[![Leetcode](https://img.shields.io/badge/Leetcode-551E9F?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nidhal-Khazene/)
