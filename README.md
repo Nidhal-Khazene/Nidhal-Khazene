@@ -26,7 +26,7 @@ Currently  · 📍 Algeria · UTC+01:00
 
 **Cloud & Backend** — Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · AppSync · REST
 
-**Architecture** — Clean Architecture · MVVM 
+**Architecture** — Clean Architecture · MVVM · MVC
 
 **DevOps & Tools & AI** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio · Antigravity · GitHub Copilot
 
