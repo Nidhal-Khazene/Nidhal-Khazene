@@ -14,10 +14,6 @@
 
 <br/>
 
-**Flutter Mobile Developer** building scalable, AI-powered cross-platform apps.
-
-Currently  · 📍 Algeria · UTC+01:00
-
 ---
 
 ## Stack
