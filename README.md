@@ -22,7 +22,7 @@
 
 **Architecture** — Clean Architecture · MVVM 
 
-**DevOps & Tools & AI** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio · Antigravity · GitHub Copilot
+**DevOps & Tools & AI** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio · Antigravity IDE
 
 **Storage** —  Hive · Shared Preferences
 
