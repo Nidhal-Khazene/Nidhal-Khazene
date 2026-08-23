@@ -24,7 +24,7 @@
 
 **DevOps & Tools & AI** — Git  · GitHub Actions · Trello · Postman · VScode · Xcode · Android Studio · Antigravity IDE
 
-**Storage** —  Hive · Shared Preferences
+**Databases** —  Hive · Shared Preferences
 
 **Other** — Push Notifications · Unit Testing · Google Maps · App Publishing · Payments
 
