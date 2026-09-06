@@ -14,7 +14,7 @@
 
 <br/>
 
-## Stack
+## Tech Stack
 
 **Mobile** — Flutter · Dart · BLoC · Cubit  
 
